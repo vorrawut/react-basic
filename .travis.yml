@@ -22,7 +22,7 @@ deploy:
   skip_cleanup: true
   provider: firebase
   token:
-    secure: 1/LgPnySFEzFO1qdzd0k5WI2gR0RAno9XmJ4OcBCJKTLiRCPJEXIV3h1XTHIoOj_jm
+    secure: 1/_6BkLBSApQWFI7TmKsbGveQyNzN60X7ro8dvWUQwwlE
   project: "react-shop-online"
   message: "Done Deploy!! 🚁🚁🚁"
 
