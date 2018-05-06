@@ -1,5 +1,6 @@
 {
   "name": "react-shop-online",
+  "homepage": "https://github.com/vorrawut/react-shop-online.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
