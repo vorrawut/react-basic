@@ -1,0 +1,7 @@
+# Ignore unnecessary file
+node_modules
+Dockerfile
+.DS_Store
+.git
+.gitignore
+README.md
