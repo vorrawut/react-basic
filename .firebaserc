@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "react-basic"
+    "default": "react-basic",
+    "react-basic": "react-basic-fe61b"
   }
 }
