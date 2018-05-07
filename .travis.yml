@@ -23,7 +23,7 @@ deploy:
   provider: firebase
   token:
     secure: 1/_6BkLBSApQWFI7TmKsbGveQyNzN60X7ro8dvWUQwwlE
-  project: "react-shop-online"
+  project: "react-basic"
   message: "Done Deploy!! 🚁🚁🚁"
 
 after_deploy: "echo 'Done Deploy!! 🚁🚁🚁' "
